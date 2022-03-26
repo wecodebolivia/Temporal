@@ -22,3 +22,8 @@
 	path = wecodebolivia/product_access_restriction
 	url = git@github.com:wecodebolivia/product_access_restriction.git
 	branch = 15.0.1.0.2
+
+[submodule "wecodebolivia/reports_fed_state"]
+	path = wecodebolivia/reports_fed_state
+	url = git@github.com:wecodebolivia/reports_fed_state.git
+	branch = 15.5.1
