@@ -2,3 +2,8 @@
 	path = wecodebolivia/app_product_weight_sale
 	url = git@github.com:wecodebolivia/app_product_weight_sale.git
 	branch = 15.21.10.12
+
+[submodule "wecodebolivia/clean_data"]
+	path = wecodebolivia/clean_data
+	url = git@github.com:wecodebolivia/clean_data.git
+	branch = 15.0.1.0.0
