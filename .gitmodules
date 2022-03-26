@@ -17,3 +17,8 @@
 	path = wecodebolivia/mrp_sale_info
 	url = git@github.com:wecodebolivia/mrp_sale_info.git
 	branch = 15.0.1.0.5.2
+
+[submodule "wecodebolivia/product_access_restriction"]
+	path = wecodebolivia/product_access_restriction
+	url = git@github.com:wecodebolivia/product_access_restriction.git
+	branch = 15.0.1.0.2
