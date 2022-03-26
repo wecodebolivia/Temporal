@@ -7,3 +7,8 @@
 	path = wecodebolivia/clean_data
 	url = git@github.com:wecodebolivia/clean_data.git
 	branch = 15.0.1.0.0
+
+[submodule "wecodebolivia/import_lot_serial_no"]
+	path = wecodebolivia/import_lot_serial_no
+	url = git@github.com:wecodebolivia/import_lot_serial_no.git
+	branch = 15.0.0.1
