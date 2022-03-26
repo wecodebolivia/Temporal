@@ -47,3 +47,8 @@
 	path = wecodebolivia/show_hide_menu_multi_company_app
 	url = git@github.com:wecodebolivia/show_hide_menu_multi_company_app.git
 	branch = 15.0.3.0
+
+[submodule "wecodebolivia/bi_import_sale_purchase"]
+	path = wecodebolivia/bi_import_sale_purchase
+	url = git@github.com:wecodebolivia/bi_import_sale_purchase.git
+	branch = 15.0.0.0
