@@ -37,3 +37,8 @@
 	path = wecodebolivia/sale_invoice_tags_pass
 	url = git@github.com:wecodebolivia/sale_invoice_tags_pass.git
 	branch = 15.4.5.1
+
+[submodule "wecodebolivia/sh_sale_line_desc_picking"]
+	path = wecodebolivia/sh_sale_line_desc_picking
+	url = git@github.com:wecodebolivia/sh_sale_line_desc_picking.git
+	branch = 15.0.2
