@@ -1,0 +1,4 @@
+[submodule "wecodebolivia/app_product_weight_sale"]
+	path = wecodebolivia/app_product_weight_sale
+	url = git@github.com:wecodebolivia/app_product_weight_sale.git
+	branch = 15.21.10.12
