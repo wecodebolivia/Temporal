@@ -27,3 +27,8 @@
 	path = wecodebolivia/reports_fed_state
 	url = git@github.com:wecodebolivia/reports_fed_state.git
 	branch = 15.5.1
+
+[submodule "wecodebolivia/sale_cash_rounding"]
+	path = wecodebolivia/sale_cash_rounding
+	url = git@github.com:wecodebolivia/sale_cash_rounding.git
+	branch = 15.4.0
